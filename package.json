@@ -1,0 +1,23 @@
+{
+  "name": "source-code",
+  "version": "1.0.0",
+  "description": "Vue框架相关源码实现",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnsritch/source-code-vue.git"
+  },
+  "keywords": [
+    "vue",
+    "source-code"
+  ],
+  "author": "X",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnsritch/source-code-vue/issues"
+  },
+  "homepage": "https://github.com/dnsritch/source-code-vue#readme"
+}
